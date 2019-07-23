@@ -12,11 +12,12 @@ layout: single
 title: Workshop Goals.
 ---
 
-Human-Centered Machine Learning (HCML) emerges in response to the rapid adoption of Machine Learning (ML), to provide the understandings and means to put ML at the service of people in a way that is accessible, useful, and trustworthy to all. This workshop’s goals are to continue [past efforts](http://hcml2016.goldsmithsdigital.com/){:target="_blank"} in HCML and bring together a community of diverse practitioners and ideas to articulate an updated agenda for doing human-centered ML research.
+- **Meet colleagues and build collaborations:** Drawing researchers from multiple disciplines and methods (machine learning, HCI, law, ethics, etc.), this workshop seeks to make connections between people and groups, particularly across disciplinary boundaries.
 
-In particular, the workshop will host sessions where participants will present position papers focusing on emerging ideas about experiences when people engage with ML in richer ways than merely being a source of labels, teaching to machines, intelligible systems, explainable decisions, and algorithmic fairness. For more details on these themes, see the [Call for Papers](callforpapers.html) section of this website.
+- **Establish a set of definitions and precedents:** Using case studies and experiences drawn from historical HCI and specific domains, this workshop seeks to establish a set of definitions for the work moving forward and lay out what can be learned from prior work, as well as understand the ethical foundations of the concept of contestability. 
 
-After the paper sessions, panelists and audience will collaborate in participatory design activity to explore one or more ideas that emerged from the prior panels.
+- **Construct a taxonomy of contestable systems:** Understand what characterizes contestable systems, as well as which systems (or types of systems) can/should be designed for contestability. 
 
-The workshop's final event will consist of a town-hall-like discussion among the participants and the attendees. During this event, we will discuss the best ways to best distribute the outcome of the day's activities. This includes expanding the day's presentations into longer papers to be included into a special issue of a journal such as TOCHI, or online venues such as [distill](http://distill.pub){:target="_blank"}.
-In addition to considering dissemination plans, we will discuss how to best maintain and grow the HCML community. We would like to propose the formation of a Special Interest Group (SIG) on HCML, and the continuation of workshops in the area in venues focusing on  HCI, Design, and ML themes.
+- **Decide what's important:** Set a research agenda for future work on contestability. In doing so, this workshop will both develop a set of questions that need to be addressed and principles for how to do so.
+
+- **Communicate beyond HCI:** This workshop looks to understand how industry, regulators, and policy can operationalize findings from this area, as well as how to draw contributions and share findings with these larger communities. 
