@@ -1,7 +1,7 @@
 ---
 sidebar:
   - title: "Important Dates:"
-    image_alt: "A human at the center of something, something, machine learning."
+    image_alt: "."
     text: "Papers Deadline: 12-Feb-2019"
   - extra: ""
     text: "Papers Decisions: 1-Mar-2019"
@@ -9,17 +9,14 @@ sidebar:
     text: "Workshop: 4-May-2019"
 
 layout: single
-title: Human-Centered Machine Learning Perspectives Workshop.
+title: Contestability in Algorithmic Decision Making
 ---
 
-A one-day workshop will take place on May 4th, 2019 at the [ACM CHI 2019 Conference](http://chi2019.acm.org){:target="\_blank"} in Glasgow, UK.
+A one-day workshop will take place on Saturday November 9th, 2019 at the [ACM CSCW 2019 Conference](http://cscw.acm.org/2019/){:target="\_blank"} in Austin, TX.
 
-## About
+## Abstract
 
-Current Machine Learning models have the power to make predictions that are as good as or better than those made by people. The rapid adoption of this technology puts it at the forefront of systems that impact the lives of many, yet the consequences of this adoption are not fully understood. Therefore, work at the intersection of people's needs and ML systems is more relevant than ever.
-
-This area of work, dubbed Human-Centered Machine Learning (HCML), re-thinks ML research and systems in terms of human goals. HCML gathers an interdisciplinary group of HCI and ML practitioners, each bringing their unique, yet related perspectives. This workshop is an successor to the [CHI 2016's Workshop on Human-Centered Machine Learning](http://hcml2016.goldsmithsdigital.com/){:target="\_blank"}, yet participation in that event is not a prerequisite, and new participants are very much welcomed. This event will focus on recent advancements and emerging areas in the rapidly evolving space of HCML. In particular, we are interested in discussing emerging ideas about experiences where people engage with ML in richer ways than merely being a source of labels, teaching to machines, intelligible systems, explainable decisions, and algorithmic fairness.
-Through these discussions we aim to articulate a coordinated HCML research agenda for the XXI century.
+As algorithmic decision making systems become both more prevalent and more visible to users, concerns have arisen about their trustworthiness and users' willingness to engage with them. In addition to efforts addressing transparency and understandability, one way to address these issues is by designing algorithmic decision making systems for contestability. The concept of contestability in technology systems has deep roots in human-computer interaction and recent work has called attention to the need for designing contestable decision making systems. However, adding contestability can be challenging, particularly in systems that are designed to be opaque. As one example, recidivism prediction systems that cannot be appealed in court demonstrate the complexities of systems that need to explain decisions, protect intellectual property and maintain human rights. This workshop will address when and how lay users, experts, regulators, and others should be able contest algorithmic decisions. This workshop aims to draw from the diverse set of domains with existing contestability practices (health, law, insurance, etc.) as well as ethics to develop a set of questions that need to be addressed as well as principles for how to do so. 
 
 
 ## How to Participate
