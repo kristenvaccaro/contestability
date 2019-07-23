@@ -1,12 +1,12 @@
 ---
 sidebar:
-- title: "Important Dates:"
-image_alt: "."
-text: "Submission Deadline: 20-Sep-2019"
-- extra: ""
-text: "Papers Decisions: 1-Oct-2019"
-- extra: ""
-text: "Workshop: 9-Nov-2019"
+  - title: "Important Dates:"
+    image_alt: "."
+    text: "Submission Deadline: 20-Sep-2019"
+  - extra: ""
+    text: "Papers Decisions: 1-Oct-2019"
+  - extra: ""
+    text: "Workshop: 9-Nov-2019"
 
 layout: single
 title: Workshop Themes.
