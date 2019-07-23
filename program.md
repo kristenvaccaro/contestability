@@ -14,7 +14,7 @@ title: Workshop Program.
 
 The list of participants and papers will be coming soon. The workshop schedule is included below, further details about activities can be found in the workshop proposal.
 
-## Workshop's schedule 
+## Workshop Schedule 
 
 ### 08:00 - Breakfast and Introductions
 
@@ -43,6 +43,6 @@ This discussioon session will focus the discussion in particular on steps for mo
 ---
 
 
-## Workshop Posters
+## Workshop Papers
 
 **Coming Soon** 
