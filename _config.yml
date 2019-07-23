@@ -1,1 +1,19 @@
-theme: jekyll-theme-minimal
+title: "HCML Perspectives Workshop at CHI 2019"
+description: "Let's define what takes place at the intersection of HCI and ML."
+
+search: false
+
+author:
+  name     : "Your Name"
+  avatar   : "/spider-sense.jpg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, USA" 
+
+footer:
+
+plugins:
+  - jekyll-include-cache
+
+remote_theme: mmistakes/minimal-mistakes
+
+# Defaults
