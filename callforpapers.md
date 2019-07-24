@@ -46,4 +46,4 @@ Submissions are single-blind reviewed; i.e., submissions must include the author
 
 
 ## Contact Us
-For any additional questions, please contact us at [kvaccaro@illinois.edu](mailto:kvaccaro@illinois.edu){:target="_blank"}
+For any additional questions, please contact us at [kvaccaro@illinois.edu](mailto:kvaccaro@illinois.edu){:target="_blank"}.

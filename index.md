@@ -23,4 +23,12 @@ However, adding contestability can be challenging, particularly in systems that 
 
 ## How to Participate
 
-We invite the submission of positions papers between 3-6 pages long. Position papers should follow the CHI Extended Abstract [format](http://chi2019.acm.org/authors/chi-proceedings-format/){:target="\_blank"} and be submitted through our [CMT submission site](https://cmt3.research.microsoft.com/HCMLP2019){:target="\_blank"}.
+To achieve as diverse a group as possible, participants are encouraged to submit any form of document that suggests their current thinking on this topic: case studies, position papers, design fictions, and so on. Submissions should be no longer than 10,000 words, excluding references. However, we welcome submissions of any shorter length and recommend authors aim for approximately 4-6 pages in length.
+
+Participants are also welcome to submit previously published work, but should add an approximately 1000 word cover letter identifying the relevance of the work to the themes of the workshop.
+
+Please email submissions directly to [kvaccaro@illinois.edu](mailto:kvaccaro@illinois.edu){:target="_blank"} with the subject line "Contestability Workshop Submission" on or before September 20, 2019.
+
+ 
+
+
