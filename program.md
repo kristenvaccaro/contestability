@@ -19,23 +19,22 @@ The list of participants and papers will be coming soon. The workshop schedule i
 ### 08:00 - Breakfast and Introductions
 
 ### 09:00 - Presentations
-Presentations will be selected as a subset of case studies, position papers, design fictions, from participants and organizers. 
+Presentations will be selected as a subset of submitted papers from participants and organizers. 
 
 ### 10:30 - Breakout session I
-Breakout sessions will coincide with opportunities for bio- and snack breaks. 
 
 ### 10:45 - Discussion I
-Guiding questions will be drawn from the submitted papers, hashtags on social media and directly asking invited participants before the start of the workshop. 
+Guiding questions for the first discussion will be drawn from the submitted papers, hashtags on social media and directly asking invited participants before the start of the workshop. 
 
 ### 12:00 - Lunch
 
 ### 13:00 - Interactive Activity
-The early afternoon will consist of an interactive activity inspired by adversarial learning, which should both showcase frustration experienced by many users, while at the same time driving participants (though the iterative nature of the activity) to discover novel and innovative ways of engaging with a decision making system.
+The early afternoon will consist of an interactive activity inspired by adversarial learning, which should both showcase frustration experienced by many decision subjects, while driving participants (though iteration) to discover novel and innovative ways of engaging with a decision making system.
 
 ### 14:45 - Breakout session II
 
 ### 15:00 - Discussion II
-This discussioon session will focus the discussion in particular on steps for moving forward: what are guiding principles for research in this area? And are there any steps that should be taken to make findings more accessible and useful to the general public and industry designers and developers?
+This discussion session will focus on steps for moving forward: what are guiding principles for research in this area? And are there any steps that should be taken to make findings more accessible and useful to the general public and industry designers and developers?
 
 ### 18:00 - Dinner
 
