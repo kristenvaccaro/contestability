@@ -12,21 +12,23 @@ layout: single
 title: Call for Papers!
 ---
 
-We hope to bring together as broad as possible a set of participants -- not only those from the HCI community, but also machine learning researchers and practitioners, and those from other domains, including the law, health care and medicine, security, education and other fields with established contestability practices. Whether you are in research, industry, or policy, we strongly encourage you to submit!
+We hope to bring together as broad as possible a set of participants -- not only those from the HCI community, but also those working in machine learning, ethics, and other domains, including the law, health care and medicine, security, education and other fields with established or developing contestability practices. Whether you are a researcher, practictioner, or policy advocate, we strongly encourage you to submit!
 
 To that end, while we provide workshop themes, we strongly encourage submissions on other topics as well:
 
-1. technical or design experiences with contestability,
-2. experiences with other forms of contestation, regulation, or audiiting, particularly of machine learning systems
-2. experiences in domains with well-developed or developing contestability practices 
-3. insight into the ethics of contestability and/or fairness
-4. insight into the methodology of studying contestability
-5. positions on the goals, audiences, or impacts of contestability -- for machine learning, design, policy, and so on. 
+- technical or design experiences with contestability,
+- experiences with other forms of contestation, regulation, or audiiting, particularly of machine learning systems
+- experiences in domains with well-developed or developing contestability practices 
+- insight into the ethics of contestability and/or fairness
+- insight into the methodology of studying contestability
+- positions on the goals, audiences, or impacts of contestability -- for machine learning, design, policy, and so on. 
 
 
 ## How to Participate
 
 To achieve as diverse a group as possible, participants are encouraged to submit any form of document that can suggest their current thinking on this topic: case studies, position papers, design fictions, and so on. 
+
+Please email submissions directly to [kvaccaro@illinois.edu](mailto:kvaccaro@illinois.edu){:target="_blank"} with the subject line "Contestability Workshop Submission" on or before September 20, 2019.
 
 #### Length
 
@@ -40,7 +42,7 @@ Submissions may be in whatever format is common in your discipline. If participa
 
 #### Review Process
 
-Submissions are single-blind reviewed; i.e., submissions must include the author's names and affiliation. The workshop`s organizing committee will review the submissions and accepted papers will be presented at the workshop. We ask that at least one of the authors of each accepted position paper attends the workshop. Presenting authors must register for the workshop.
+Submissions are single-blind reviewed; i.e., submissions must include the author's names and affiliation. The workshop`s organizing committee will review the submissions and accepted papers will be presented at the workshop. At least one of the authors of each accepted paper must register for and attend the workshop.
 
 
 ## Contact Us
