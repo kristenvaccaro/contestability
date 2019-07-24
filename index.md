@@ -16,7 +16,7 @@ A one-day workshop will take place on Saturday November 9th, 2019 at the [ACM CS
 
 ## Abstract
 
-As algorithmic decision making systems become both more widespread and visible to users, there are growing concerns about their trustworthiness and users' willingness to engage with them. Alongside efforts to increase transparency and understandability, designing algorithmic decision making systems for **contestability** is another way to address these issues. 
+As algorithmic (and particularly machine leanring) decision making systems become both more widespread and visible to users, there are growing concerns about their trustworthiness and users' willingness to engage with them. Alongside efforts to increase transparency and understandability, designing algorithmic decision making systems for **contestability** is another way to address these issues. 
 
 However, adding contestability can be challenging, particularly in systems that are designed to be opaque. As one example, recidivism prediction systems that cannot be appealed in court demonstrate the complexities of systems that need to explain decisions, protect intellectual property and maintain human rights. This workshop will address when and how lay users, experts, regulators, and others should be able contest algorithmic decisions. This workshop aims to draw from the diverse set of domains with existing contestability practices (health, law, insurance, etc.) as well as ethics to develop a set of questions that need to be addressed as well as principles for how to do so. 
 
